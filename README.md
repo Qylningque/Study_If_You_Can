@@ -22,9 +22,9 @@
 
 [Unsafe源码阅读记录](https://github.com/Qylningque/Study_If_You_Can/blob/master/jdk1_8/03_Unsafe/03-Unsafe.md)
 
+### 1.1.4 AtomicInteger
 
-
-
+[AtomicInteger源码阅读记录](https://github.com/Qylningque/Study_If_You_Can/blob/master/jdk1_8/04_AtomicInteger/04-AtomicInteger.md)
 
 
 
