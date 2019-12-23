@@ -81,4 +81,4 @@ Derived constructor
 
 # 3.反射
 
-![](https://pic4.zhimg.com/v2-4face8109e0d52ef5894c41c69e4ec6b_r.jpg)
+![JVM内存模型](https://pic4.zhimg.com/v2-4face8109e0d52ef5894c41c69e4ec6b_r.jpg)

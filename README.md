@@ -28,6 +28,16 @@
 
 
 
+# 二、Java核心概念
+
+## 2.1 Java基础
+
+### 2.1.1 [基本概念 ](https://github.com/Qylningque/Study_If_You_Can/blob/master/java_core/01_java_base/01-Java%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5-Java%E5%9F%BA%E7%A1%80-%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5.md)
+
+
+
+
+
 # 0、Java知识体系梳理（根据学习记录逐渐完善）
 
 ![Java知识体系](/知识体系.png)
